@@ -1,2 +1,5 @@
 # CoreML
-Machine learning for core images and data
+
+Some experiments I did when I worked in PRORES AS - not part of any project
+
+
