@@ -8,5 +8,9 @@ In PRORES AS, I developed an Image-driven Machine Learning for prediction of pet
 
 Figure: Image-driven ML for core photos
 
+## Method
+
 Adapting the same method, Thin sections were extracted from reports where they can have different magnifications. Then, different features were extracted, such as the Gray-Level Co-Occurrence Matrix (GLCM) and statistical values of RGB (average, min, and max). A pipeline setup that consists of Random Forest model and Recursive Feature Elimination (RFE) to automatically search important features. Stratified K-Fold Cross-Validation (SKCV) was based on porosity and permeability range. 
+
+## Data: [TS Image data in Google Drive](https://drive.google.com/drive/folders/1fWePKWVh5PlPoO9YA19EPxKsF60dm0D4?usp=sharing)
 
